@@ -9,7 +9,6 @@ Download and install the LabVIEW runtime Engine from here.
 https://www.dropbox.com/sh/rqj5qrpgipb1le8/AABcGIxx2663IvDfR_EBR76xa?dl=0
 
 ## Positronic App Tester Download
-Download the tester from link below. There is no need to install.
-https://www.dropbox.com/sh/fng7d3c5paj3yxv/AADIYLZ3v1ldBlYJeNFNCrmCa?dl=0
+ Go to Releases section of this repository and download the latest release of the tester.
 
 
